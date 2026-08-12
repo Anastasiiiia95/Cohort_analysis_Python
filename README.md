@@ -1,6 +1,6 @@
-[ДЗ 3.ipynb](https://github.com/user-attachments/files/29374425/3.ipynb)
-[ДЗ Задниченко.ipynb](https://github.com/user-attachments/files/29374416/default.ipynb)
-[ДЗ готово.ipynb](https://github.com/user-attachments/files/29374410/default.ipynb)
+[1.ipynb](https://github.com/user-attachments/files/29374425/3.ipynb)
+[2.ipynb](https://github.com/user-attachments/files/29374416/default.ipynb)
+[3.ipynb](https://github.com/user-attachments/files/29374410/default.ipynb)
 # 
 
 
